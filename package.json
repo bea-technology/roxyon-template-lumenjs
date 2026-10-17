@@ -1,0 +1,14 @@
+{
+  "name": "roxyon-template-lumenjs",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@iconify/iconify": "^3.1.1"
+  },
+  "description": "LumenJS SPA starter for Roxyon",
+  "license": "MIT",
+  "scripts": {
+    "dev": "npx -y -p @lmjs/cli@2.5.9 lm serve",
+    "build": "npx -y -p @lmjs/cli@2.5.9 lm build --serverless"
+  }
+}

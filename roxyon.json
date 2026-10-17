@@ -1,0 +1,9 @@
+{
+  "name": "roxyon-template-lumenjs",
+  "host": "my-app.roxyon.com",
+  "folder": "",
+  "runtime": "lumen",
+  "kind": "static",
+  "build": "npm run build",
+  "outDir": "dist"
+}
